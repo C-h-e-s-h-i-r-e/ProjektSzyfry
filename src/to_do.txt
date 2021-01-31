@@ -1,0 +1,8 @@
+Heroku deploy
+https://blog.heroku.com/deploying-react-with-zero-configuration
+
+Zapis do pliku
+
+Wczytanie z pliku
+
+???Pobranie z linku???
